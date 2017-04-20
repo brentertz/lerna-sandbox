@@ -1,6 +1,6 @@
 {
   "name": "@brentertz/lerna-sandbox-app",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Lerna Sandbox App",
   "author": "Brent Ertz <brent.ertz@gmail.com>",
   "license": "MIT",
@@ -13,7 +13,7 @@
     "start": "webpack-dev-server"
   },
   "devDependencies": {
-    "@brentertz/lerna-sandbox-hello-world": "^0.0.3",
+    "@brentertz/lerna-sandbox-hello-world": "^0.0.4",
     "html-webpack-plugin": "2.28.0",
     "lerna": "2.0.0-beta.38",
     "rimraf": "2.6.1",
