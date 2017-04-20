@@ -1,0 +1,17 @@
+{
+  "name": "@brentertz/lerna-sandbox-world",
+  "version": "0.0.0",
+  "description": "Lerna Sandbox World",
+  "author": "Brent Ertz <brent.ertz@gmail.com>",
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "lerna": "lerna"
+  },
+  "devDependencies": {
+    "lerna": "2.0.0-beta.38"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}

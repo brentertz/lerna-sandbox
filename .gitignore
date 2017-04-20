@@ -1,0 +1,6 @@
+.DS_Store
+*.tgz
+*-debug.log*
+
+dist/
+node_modules/
