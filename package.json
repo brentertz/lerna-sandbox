@@ -6,10 +6,15 @@
   "private": true,
   "scripts": {
     "bootstrap": "lerna bootstrap --hoist",
+    "build": "lerna run build",
     "clean": "lerna clean --yes && lerna run clean",
-    "lerna": "lerna"
+    "lerna": "lerna",
+    "publish": "lerna publish --message='chore(publish): Publish'",
+    "prepublish": "in-publish && npm run bootstrap && npm test && npm run build || true",
+    "test": "true"
   },
   "devDependencies": {
+    "in-publish": "2.0.0",
     "lerna": "2.0.0-beta.38",
     "rimraf": "2.6.1",
     "webpack": "2.4.1",
