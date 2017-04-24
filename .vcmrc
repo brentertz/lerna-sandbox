@@ -1,0 +1,7 @@
+{
+  "types": "conventional-commit-types",
+  "scope": {
+    required: true
+  },
+  "autoFix": true // Fix casing
+}
