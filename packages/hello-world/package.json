@@ -1,6 +1,6 @@
 {
   "name": "@brentertz/lerna-sandbox-hello-world",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Lerna Sandbox HelloWorld",
   "author": "Brent Ertz <brent.ertz@gmail.com>",
   "license": "MIT",
@@ -11,8 +11,8 @@
     "lerna": "lerna"
   },
   "dependencies": {
-    "@brentertz/lerna-sandbox-hello": "^0.0.5",
-    "@brentertz/lerna-sandbox-world": "^0.0.5"
+    "@brentertz/lerna-sandbox-hello": "^0.0.6",
+    "@brentertz/lerna-sandbox-world": "^0.0.6"
   },
   "publishConfig": {
     "access": "public"
