@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="0.1.2"></a>
+## [0.1.2](https://github.com/brentertz/lerna-sandbox/compare/@brentertz/lerna-sandbox-app@0.1.1...@brentertz/lerna-sandbox-app@0.1.2) (2017-04-25)
+
+
+### Bug Fixes
+
+* **App:** Add whitespace ([56b35b5](https://github.com/brentertz/lerna-sandbox/commit/56b35b5))
+
+
+
+
 <a name="0.1.1"></a>
 ## [0.1.1](https://github.com/brentertz/lerna-sandbox/compare/@brentertz/lerna-sandbox-app@0.0.5...@brentertz/lerna-sandbox-app@0.1.1) (2017-04-25)
 
