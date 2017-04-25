@@ -6,7 +6,6 @@
   "license": "MIT",
   "main": "index.js",
   "scripts": {
-    "changelog": "conventional-changelog -p angular -i CHANGELOG.md -s",
     "commit": "git-cz",
     "lerna": "lerna"
   },
