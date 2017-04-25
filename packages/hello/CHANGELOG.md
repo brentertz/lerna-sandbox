@@ -3,6 +3,12 @@
 All notable changes to this project will be documented in this file.
 See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="0.1.1"></a>
+## [0.1.1](https://github.com/brentertz/lerna-sandbox/compare/@brentertz/lerna-sandbox-hello@0.0.5...@brentertz/lerna-sandbox-hello@0.1.1) (2017-04-25)
+
+* **experimental** Testing manual release/changelog workflow
+
+
 <a name="0.1.0"></a>
 # [0.1.0](https://github.com/brentertz/lerna-sandbox/compare/@brentertz/lerna-sandbox-hello@0.0.6...@brentertz/lerna-sandbox-hello@0.1.0) (2017-04-25)
 

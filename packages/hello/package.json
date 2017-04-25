@@ -1,6 +1,6 @@
 {
   "name": "@brentertz/lerna-sandbox-hello",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Lerna Sandbox Hello",
   "author": "Brent Ertz <brent.ertz@gmail.com>",
   "license": "MIT",
