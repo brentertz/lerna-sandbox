@@ -3,6 +3,22 @@
 All notable changes to this project will be documented in this file.
 See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="1.0.0"></a>
+# [1.0.0](https://github.com/brentertz/lerna-sandbox/compare/@brentertz/lerna-sandbox-world@0.1.1...@brentertz/lerna-sandbox-world@1.0.0) (2017-04-25)
+
+
+### Bug Fixes
+
+* **changelog:** Remove npm changelog script ([f871171](https://github.com/brentertz/lerna-sandbox/commit/f871171))
+
+
+### BREAKING CHANGES
+
+* **changelog:** Remove npm changelog script
+
+
+
+
 <a name="0.1.1"></a>
 ## [0.1.1](https://github.com/brentertz/lerna-sandbox/compare/@brentertz/lerna-sandbox-world@0.0.5...@brentertz/lerna-sandbox-world@0.1.1) (2017-04-25)
 
