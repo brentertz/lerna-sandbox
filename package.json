@@ -10,11 +10,12 @@
     "clean": "lerna clean --yes && lerna run clean",
     "commit": "git-cz",
     "commitmsg": "validate-commit-msg",
+    "deploy:app": "./scripts/deploy-app.sh",
     "lerna": "lerna",
     "link-parent-bin": "link-parent-bin -c packages",
     "prerelease": "npm run bootstrap && npm test && npm run build",
     "release": "lerna publish --message='chore(publish): Publish'",
-    "release:semantic": "npm run release -- --conventional-commits",
+    "release:semantic": "npm run release -- --conventional-commits && npm run deploy:app",
     "test": "true"
   },
   "devDependencies": {
