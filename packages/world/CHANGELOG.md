@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="1.0.4"></a>
+## [1.0.4](https://github.com/brentertz/lerna-sandbox/compare/@brentertz/lerna-sandbox-world@1.0.3...@brentertz/lerna-sandbox-world@1.0.4) (2017-05-03)
+
+
+### Bug Fixes
+
+* **hello,world,hello-world,app:** Change text to English ([b39567e](https://github.com/brentertz/lerna-sandbox/commit/b39567e))
+
+
+
+
 <a name="1.0.3"></a>
 ## [1.0.3](https://github.com/brentertz/lerna-sandbox/compare/@brentertz/lerna-sandbox-world@1.0.2...@brentertz/lerna-sandbox-world@1.0.3) (2017-05-03)
 

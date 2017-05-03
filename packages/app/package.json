@@ -1,6 +1,6 @@
 {
   "name": "@brentertz/lerna-sandbox-app",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Lerna Sandbox App",
   "author": "Brent Ertz <brent.ertz@gmail.com>",
   "license": "MIT",
@@ -14,7 +14,7 @@
     "start": "webpack-dev-server"
   },
   "devDependencies": {
-    "@brentertz/lerna-sandbox-hello-world": "^1.0.3"
+    "@brentertz/lerna-sandbox-hello-world": "^1.0.4"
   },
   "config": {
     "commitizen": {
