@@ -10,7 +10,7 @@
     "clean": "lerna clean --yes && lerna run clean",
     "commit": "git-cz",
     "commitmsg": "validate-commit-msg",
-    "deploy:app": "gh-pages -d packages/app/dist -m 'chore(site): Deploy'",
+    "deploy:app": "gh-pages -d packages/app/dist -m 'chore(app): Deploy'",
     "lerna": "lerna",
     "link-parent-bin": "link-parent-bin -c packages",
     "prerelease": "npm run bootstrap && npm test && npm run build",
