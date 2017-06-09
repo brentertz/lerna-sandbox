@@ -3,3 +3,4 @@
 
 # Lerna Sandbox
 
+A place for experimenting with [Lerna](https://github.com/lerna/lerna)
