@@ -29,7 +29,7 @@
     "link-parent-bin": "0.1.1",
     "rimraf": "2.6.1",
     "validate-commit-msg": "2.12.2",
-    "webpack": "2.6.1",
+    "webpack": "3.3.0",
     "webpack-dev-server": "2.4.5"
   },
   "config": {
