@@ -19,7 +19,7 @@
     "test": "true"
   },
   "devDependencies": {
-    "commitizen": "2.9.6",
+    "commitizen": "2.10.0",
     "conventional-commit-types": "2.1.0",
     "cz-conventional-changelog": "2.0.0",
     "gh-pages": "1.0.0",
